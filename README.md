@@ -1,2 +1,2 @@
 # python-flask-restapi
-python-flask-restapi for EKS deployment
+Example Project on how to develop RESTful API with Flask and Python
