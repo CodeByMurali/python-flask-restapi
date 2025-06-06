@@ -11,6 +11,7 @@ application:
   name: rest-api
 
 service:
+  type: LoadBalancer
   port: 8080
 
 ingress:
