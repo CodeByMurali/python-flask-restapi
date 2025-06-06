@@ -9,3 +9,6 @@ image:
 
 application:
   name: rest-api
+
+service:
+  port: 8080
